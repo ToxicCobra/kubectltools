@@ -4,7 +4,7 @@ Some shortcut commands to use with kubectl.
 
 # USAGE #
 
-To install everything to /usr/bin, simply run ./install
+To install everything to /usr/bin, simply run ./install.sh
 
 # COMMAND LIST #
 k => kubectl<br />
